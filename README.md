@@ -129,7 +129,7 @@ p.note { display: none; }
 
 <!--ここから下が、本体部分-->
 
-<h2><span class="yellow">グッと現代風の、Official髭男dism - Pretender［Official Video］</span></h2>
+<h2><span class="yellow">今回はグッと現代風の、Official髭男dism - Pretender［Official Video］</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TQ8WlA2GXbk?si=rn7yO83SFzivxgQt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
     
 <h2><span class="yellow">いきものがかり 『コイスルオトメ』</span></h2>
