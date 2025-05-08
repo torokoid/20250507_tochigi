@@ -156,8 +156,8 @@ p.note { display: none; }
 <h2><span class="yellow">花壇の看板にQRコードが付きました</span></h2>
 <a href="20250507_012.JPG" target="_blank"><img src="20250507_012.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">QRコードのリンク先はこちら↓クリックで飛びます</span></h2>
-<a href="https://www.utsunomiya-hanamidori.jp/" target="_blank">宇都宮市 花と緑のまちづくり推進協議会</a>
+<h2><span class="yellow">QRコードのリンク先はこちら↓文字のクリックでリンク先に飛びます</span></h2>
+<h2><a href="https://www.utsunomiya-hanamidori.jp/" target="_blank">宇都宮市 花と緑のまちづくり推進協議会</a></h2><br><br>
 
 <a href="20250507_033.JPG" target="_blank"><img src="20250507_033.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250507_014.JPG" target="_blank"><img src="20250507_014.JPG" alt="サンプル画像" width="900" /></a>
