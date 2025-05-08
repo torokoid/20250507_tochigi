@@ -196,6 +196,7 @@ p.note { display: none; }
 <a href="20250507_030.JPG" target="_blank"><img src="20250507_030.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">筑波山の東隣は加波山</span></h2>
+<a href="20250507_037.JPG" target="_blank"><img src="20250507_037.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250507_031.JPG" target="_blank"><img src="20250507_031.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">山を下って、下からの眺め。周囲の田んぼは田植えの時期です</span></h2>
